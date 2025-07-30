@@ -13,4 +13,9 @@ devenv.local.nix
 
 /target
 
+# Demo
 *.txt
+
+# Vim
+*.swp
+
